@@ -1,4 +1,4 @@
-## Angel Calderon 🧔🏻‍♂️: Challenge Solver 🧠 | Software Engineer 💻 | Lifelong Learner 🚀
+## 🧔🏻‍♂️Angel Calderon: Challenge Solver 🧠 | Software Engineer 💻 | Lifelong Learner 🚀
 I'm a Computer Science Major at CSUF driven by my enthusiasm and passion for technology. Eager to contribute to an organization that values innovation, growth, and excellence. Let's innovate the future, together! 🤖
 </p>
 <p align="center">
