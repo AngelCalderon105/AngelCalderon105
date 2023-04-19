@@ -1,16 +1,25 @@
-### Hi there 👋
+``const Angel = {
+    class: 2024,
+    passions: [`Music Composition`, `Programming`, `Tutoring`, `Cinema`],
+    languages: ['JavaScript, C++, Python, SQL'],
+    alive: true,
 
-<!--
-**AngelCalderon105/AngelCalderon105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    eat: function() {
+        return `Angel is eating some delicous food`;
+    },
 
-Here are some ideas to get you started:
+    sleep: function() {
+        return `Angel is sleeping heavily`;
+    },
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    code: function() {
+        return `Angel is having the time of his life problem solving`;
+    }
+}
+
+while(Angel.alive) {
+    Angel.eat();
+    Angel.sleep();
+    Angel.code();
+}
+``
