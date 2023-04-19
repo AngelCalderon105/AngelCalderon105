@@ -1,9 +1,10 @@
 # 💫 About Me:
 Hi, my name is Angel Calderon! I'm a Computer Science Major at CSUF. I'm an enthusiastic and committed student with a strong passion for technology. <br>Eager to apply my skills and knowledge, and contribute to a company that values innovation, growth, and excellence.
 </p>
-<p align="center"> 
-    <img src= "[https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)" /> 
-    </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Code Gif">
+</p>
+
 ```Javascript
     const Angel = {
     class: 2024,
