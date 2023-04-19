@@ -1,4 +1,4 @@
-``const Angel = {
+`const Angel = {
     class: 2024,
     passions: [`Music Composition`, `Programming`, `Tutoring`, `Cinema`],
     languages: ['JavaScript, C++, Python, SQL'],
@@ -22,4 +22,4 @@ while(Angel.alive) {
     Angel.sleep();
     Angel.code();
 }
-``
+`
