@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, my name is Angel Calderon! I'm a Computer Science Major at CSUF. I'm an enthusiastic and committed student with a strong passion for technology. <br>Eager to apply my skills and knowledge, and contribute to a company that values innovation, growth, and excellence.
+## 👨‍💻 Angel Calderon: Innovator | Software Engineer | Lifelong Learner 🚀
+I'm a Computer Science Major at CSUF. I'm an enthusiastic strong passion for technology. 
+<br>Eager to contribute to a company that values innovation, growth, and excellence.
 </p>
 <p align="center">
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="Code Gif">
