@@ -7,11 +7,11 @@
     eat: () => {return '🌯'},
     sleep: () => {return '🛏️'},
     code: () => {return 'Angel is having the time of his life problem solving👨‍💻'}
-}
+    }
 
-while(Angel.alive) {
+while (Angel.alive) {
     Angel.eat();
     Angel.sleep();
     Angel.code();
-}
+    }
 ```
