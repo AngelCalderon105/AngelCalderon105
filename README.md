@@ -1,5 +1,5 @@
-## 🧔🏻‍♂️Angel Calderon: Software Engineer 💻 | Lifelong Learner 🚀 | Leader ⭐
-I'm a Software Engineer New Grad, I'm in love with the creative process. I excel in both front-end and back-end, delivering robust and elegant software. 🤖
+## 🧔🏻‍♂️Angel Calderon: Software Engineer 💻 | Founder/Leader ⭐ | Lifelong Learner 🚀 
+I'm a Software Engineer New Grad with a passion for the creative process. I excel in both front-end and back-end development, delivering robust and elegant software. As a natural leader and founder of my own startup, I thrive in collaborative environments, constantly learning, guiding teams, and driving projects to success. My ambition fuels my journey, as I work tirelessly to innovate and make an impact. 🤖
 </p>
 <p align="center">
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="Code Gif">
